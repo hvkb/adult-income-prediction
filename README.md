@@ -1,5 +1,5 @@
 # Adult-Income-Prediction
-The purpose of this project is to predict whether income exceeds $50K/yr based on data extracted from the 1994 US census.
+Predicts whether income exceeds $50K/yr based on data extracted from the 1994 US census.
 Dataset link: https://www.kaggle.com/uciml/adult-census-income
 
 ## Models Implemented ##
